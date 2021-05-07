@@ -1,6 +1,6 @@
 # mysql.ts-example
 
-An example for [@casper124578](https://github.com/dev-caspertheghost/mysql.ts)
+An example for [@casper124578/mysql.ts](https://github.com/dev-caspertheghost/mysql.ts)
 
 ## Setup
 
